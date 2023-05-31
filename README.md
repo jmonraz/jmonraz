@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭Experience with C#, C++, Java, and DART. <br><br>
+🔭Experience with HTML, CSS, JavaScript, Java, C#, C++, Python, Dart, SQL, and NOSQL <br><br>
 
 
 ## 🌐 Socials:
